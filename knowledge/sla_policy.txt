@@ -1,0 +1,1 @@
+SAMPLE POLICY — fictional demonstration only. Priority P1 incidents have a target initial response time of 15 minutes. If unresolved after 60 minutes, escalate to the duty manager. P2 incidents have a target response time of 2 hours.
