@@ -1,0 +1,1 @@
+SAMPLE SERVICE GUIDE — fictional demonstration only. Cloud Hosting Pro includes daily backups, monitoring and a support ticket portal. Critical outages should be logged as P1 incidents. Account changes require identity verification.
