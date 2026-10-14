@@ -1,5 +1,8 @@
 # Enterprise RAG Knowledge Assistant
 
+[![Python unit tests](https://github.com/arqam3025/enterprise-rag-assistant/actions/workflows/tests.yml/badge.svg)](https://github.com/arqam3025/enterprise-rag-assistant/actions/workflows/tests.yml)
+
+
 **Status:** Local retrieval app with **optional Ollama-based LLM generation**. No commercial deployment, role-based permissions or production security is claimed.
 
 ## Features
